@@ -21,3 +21,8 @@ It could be useful to check new version to the original and stable version which
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It depends. If we are working next to each other using git is much harder than not using it vice versa gitHub could save a lot of time and effort if used in long distances.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When there is a need to first check the changes with others and then publish it as a main branch
