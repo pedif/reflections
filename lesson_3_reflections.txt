@@ -16,3 +16,8 @@ fork is like clone but on github.branch are just different. Whenever I want to w
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It could be useful to check new version to the original and stable version which we already have.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It depends. If we are working next to each other using git is much harder than not using it vice versa gitHub could save a lot of time and effort if used in long distances.
